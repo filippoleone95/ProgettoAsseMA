@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AppTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-06-29T14:10:11" hostname="MacBook-Air-di-Filippo.local" time="0.018">
+  <properties/>
+  <testcase name="minValidWord()" classname="AppTest" time="0.013"/>
+  <testcase name="wordEvenNumbers()" classname="AppTest" time="0.0"/>
+  <testcase name="multiWord()" classname="AppTest" time="0.001"/>
+  <testcase name="validWord()" classname="AppTest" time="0.001"/>
+  <testcase name="testCountCharOdd()" classname="AppTest" time="0.001"/>
+  <testcase name="WordOddCharacter()" classname="AppTest" time="0.0"/>
+  <testcase name="emptyString()" classname="AppTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
